@@ -1,0 +1,5 @@
+Retrospektiivitekniikat Start, Stop, Continue, More of, Less of Wheel sekä Glad, Sad, Mad ovat molemmat ohjelmistokehitystiimien tapoja tarkastella mennyttä sprinttiä sekä miettiä miten kyseisen sprintin kokemuksia voitaisiin käyttää tulevien sprinttien parantamiseen. Nämä molemmat tekniikat perustuvat siihen, että kehitystiimi tuo esille kaikki mieleen tulevat ajatukset, ajatukset luokitellaan eri luokkiin ja sitten niistä keskustellaan ja ne taltioidaan.
+
+Esimerkiksi Start, Stop... tekniikassa pohditaan kehittäjätiimin toimintaa ja mietitään, minkä tekemistä voitaisiin aloittaa, mitä voitaisiin lopettaa ja mitä ehkä voitaisiin säädellä.
+
+Glad, Sad ja Mad tekniikassa taas tarkastellaan tiimin ajatuksia ja luokitellaan ne sen mukaan, minkälaisia ajatuksia ne kehittäjätiimissä herättävät. Kun ajatukset on tuotu esille ja luokiteltu, niin sitten tiimi äänestää, mistä ongelmista keskustellaan. Täällä ei välttämättä edes tarvitse tuoda esille ajatuksia nimenomaan kehityksestä, vaan muistakin seikoista, jotka mahdollisesti vaikuttavat tiimin moraaliin.
